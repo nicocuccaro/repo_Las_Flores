@@ -1,0 +1,26 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+body {
+    margin: 20px;
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+
+}
+p {
+    align-content: flex-end;
+
+}
+
+img {
+    width: 24px;
+    height: 24px;
+}
